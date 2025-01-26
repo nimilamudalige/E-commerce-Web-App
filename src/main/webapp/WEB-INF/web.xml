@@ -11,7 +11,7 @@
     </resource-ref>
     <servlet>
         <servlet-name>ViewProductServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.ViewProductServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.ViewProductServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ViewProductServlet</servlet-name>
@@ -19,7 +19,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>EditproductServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.EditproductServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.EditproductServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>EditproductServlet</servlet-name>
@@ -27,7 +27,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>UpdateproductServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.UpdateproductServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.UpdateproductServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>UpdateproductServlet</servlet-name>
@@ -35,7 +35,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>GetProductDetailsServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.GetProductDetailsServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.GetProductDetailsServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>GetProductDetailsServlet</servlet-name>
@@ -43,7 +43,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>AddproductServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.AddproductServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.AddproductServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>AddproductServlet</servlet-name>
@@ -52,7 +52,7 @@
 
     <servlet>
         <servlet-name>ViewCategoryServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.ViewCategoryServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.ViewCategoryServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ViewCategoryServlet</servlet-name>
@@ -60,7 +60,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>EditCategoryServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.EditCategoryServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.EditCategoryServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>EditCategoryServlet</servlet-name>
@@ -68,7 +68,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>UpdateCategoryServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.UpdateCategoryServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.UpdateCategoryServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>UpdateCategoryServlet</servlet-name>
@@ -76,7 +76,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>GetCategoryDetailsServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.GetCategoryDetailsServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.GetCategoryDetailsServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>GetCategoryDetailsServlet</servlet-name>
@@ -84,7 +84,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>DeleteCategoryServlet</servlet-name>
-        <servlet-class>lk.ijse.ecomerce.api.DeleteCategoryServlet</servlet-class>
+        <servlet-class>lk.ijse.ecomerce.DeleteCategoryServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>DeleteCategoryServlet</servlet-name>
