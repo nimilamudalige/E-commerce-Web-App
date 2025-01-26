@@ -95,7 +95,7 @@
         </div>
     </div>
 </nav>
-<h1 class="letter3"> My Shop Product List</h1>
+<h1 class="letter3"> My Shop Category List</h1>
 
 <button type="button" class="btn btn-primary btncolour" onclick="window.location.href='add_category.jsp'"><img src="assets/icons8-add-64.png" style="margin-right: 5px" ><br>Add New</button>
 <div class="container mt-5">
